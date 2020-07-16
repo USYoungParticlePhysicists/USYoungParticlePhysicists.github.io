@@ -1,7 +1,7 @@
-- name: Page 1
-  link: /page-1/
-- name: Blog
-  link: /blog/
+- name: News & Events
+  link: /news/
+- name: Organization
+  link: /org/
   dropdown: 
-    - name: Page 2
-      link: /page-2/
+    - name: Contact
+      link: /Contact/
