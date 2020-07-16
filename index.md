@@ -11,7 +11,7 @@ A group of over 100 early career representatives has been formed to take part in
 
 Beyond 2021, we are forming a community to represent all early career (PhD + 10 yrs) colleagues in the U.S. in a variety of ways. 
 
-#New to the community? 
+## New to the community? 
 Make sure to join the community slack <link> and join the snowmass-young mailing list. 
 
 
