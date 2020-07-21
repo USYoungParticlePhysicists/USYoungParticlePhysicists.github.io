@@ -11,7 +11,7 @@ Snowmass Early Career (SEC) is composed of early career members in the particle 
 
 A group of over 100 early career representatives has been formed to take part in Snowmass2021 process. We are here to represent our colleagues during and beyond Snowmass. If you want to learn more about the Snowmass process and what we are doing on that front, visit the snowmass wiki.
 
-Beyond 2021, we are forming a community to represent all early career (PhD + 10 yrs) colleagues in the U.S. in a variety of ways. 
+Beyond 2021, we are forming a community to represent all early career colleagues in the U.S. in a variety of ways. 
 
 
 ## Who is Early Career?
