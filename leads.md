@@ -1,3 +1,12 @@
+---
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+title: Leadership
+subtitle: Snowmass Early Career Board
+layout: page
+show_sidebar: false
+permalink: /leads/
+---
 
 #SNOWMASS EARLY CAREER
 
