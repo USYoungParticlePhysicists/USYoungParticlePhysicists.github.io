@@ -12,6 +12,12 @@ A group of over 100 early career representatives has been formed to take part in
 Beyond 2021, we are forming a community to represent all early career (PhD + 10 yrs) colleagues in the U.S. in a variety of ways. 
 
 ## New to the community? 
-Make sure to join the community slack <link> and join the snowmass-young mailing list. 
+If you are an early career scientist, we encourage you to join the “Snowmass Young” mailing list (snowmass-young@fnal.gov) 
+by emailing to listserv@listserv.fnal.gov with the body of the message “Subscribe snowmass-young YOUR NAME”. 
+
+You can also join the snowmass-young slack channel on the Snowmass slack space. Agendas and presentations of all Snowmass-related 
+meetings are available via this Snowmass Indico link, and SEC-specific meetings are posted on Indico.
+
+
 
 
