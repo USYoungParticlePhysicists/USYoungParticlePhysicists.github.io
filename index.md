@@ -7,9 +7,16 @@ layout: page
 show_sidebar: false
 ---
 
-A group of over 100 early career representatives has been formed to take part in Snowmass2021 process. We are here to represent our colleagues during and beyond Snowmass. If you want to learn more about the Snowmass process and what we are doing on that front, visit this webpage <link>.
+Snowmass Early Career (SEC) is composed of early career members in the particle physics community. 
+
+A group of over 100 early career representatives has been formed to take part in Snowmass2021 process. We are here to represent our colleagues during and beyond Snowmass. If you want to learn more about the Snowmass process and what we are doing on that front, visit the snowmass wiki.
 
 Beyond 2021, we are forming a community to represent all early career (PhD + 10 yrs) colleagues in the U.S. in a variety of ways. 
+
+
+## Who is Early Career?
+As a guideline, SEC roughly defines early career as ~10 years post-PhD. However, we recognize that many people have different paths that can include career gaps and changes. We thus encourage anyone that feels that early career applies to them to join the organization. We also encourage those involved in the technical, operations, or engineering aspects of HEP experiments who may or may not obtain a PhD as part of their career path to join. The Snowmass 2021 process will develop a long-term strategic plan, so the voices of early career members are critically important and we want them to be heard.
+
 
 ## New to the community? 
 If you are an early career scientist, we encourage you to join the “Snowmass Young” mailing list (snowmass-young@fnal.gov) 
