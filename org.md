@@ -5,6 +5,7 @@ title: Organization
 subtitle: Snowmass Early Career Leadership and Initiatives
 layout: page
 show_sidebar: false
+permalink: /org/
 ---
 
 
