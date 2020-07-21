@@ -1,7 +1,7 @@
-- name: News & Events
-  link: /news/
 - name: Organization
   link: /org/
   dropdown: 
     - name: Leadership
       link: /leads/
+- name: News & Events
+  link: /news/
