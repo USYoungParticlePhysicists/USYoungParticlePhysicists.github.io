@@ -15,7 +15,7 @@ Beyond 2021, we are forming a community to represent all early career colleagues
 
 
 ## Who is Early Career?
-As a guideline, SEC roughly defines early career as ~10 years post-PhD. However, we recognize that many people have different paths that can include career gaps and changes. We thus encourage anyone that feels that early career applies to them to join the organization. We also encourage those involved in the technical, operations, or engineering aspects of HEP experiments who may or may not obtain a PhD as part of their career path to join. The Snowmass 2021 process will develop a long-term strategic plan, so the voices of early career members are critically important and we want them to be heard.
+As a guideline, SEC roughly defines early career as up to ~10 years post-PhD (undergradautes, gradaute students, postdocs, early-career faculty, engineers, etc.). However, we recognize that many people have different paths that can include career gaps and changes. We thus encourage anyone that feels that early career applies to them to join the organization. We also encourage those involved in the technical, operations, or engineering aspects of HEP experiments who may or may not obtain a PhD as part of their career path to join. The Snowmass 2021 process will develop a long-term strategic plan, so the voices of early career members are critically important and we want them to be heard.
 
 
 ## New to the community? 
