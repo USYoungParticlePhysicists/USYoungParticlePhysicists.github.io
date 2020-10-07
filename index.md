@@ -2,7 +2,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: Beyond Snowmass Early Career
-subtitle: Forming A Community of Early Career Particle Physicists
+subtitle: Forming A Community of Early Career Particle Physics
 layout: page
 show_sidebar: false
 ---
