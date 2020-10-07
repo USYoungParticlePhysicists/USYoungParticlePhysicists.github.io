@@ -13,7 +13,7 @@ A group of over 100 early career representatives has been formed to take part in
 
 Beyond 2021, we are forming a community to represent all early career colleagues in the U.S. in a variety of ways. 
 
-### Please provide your feedback to the future of SEC here: https://forms.gle/vHVpeZuKN4MfSiPQA
+### Please provide your feedback to the future of SEC [here](https://forms.gle/vHVpeZuKN4MfSiPQA)
 
 
 You can also join the snowmass-young slack channel on the Snowmass slack space. Agendas and presentations of all Snowmass-related 
