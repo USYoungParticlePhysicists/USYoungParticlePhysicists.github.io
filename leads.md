@@ -18,13 +18,13 @@ key initiative.
 Sara Simon (2020 term), Fernanda Psihas (2019 term) 
 
 #### In-reach:	
-Cindy Lin, Christian Herwig
+Cindy Lin, Christian Herwig, Matt LeBlanc
 
 #### Diversity, Equity, Inclusion	
 Johan S. Bonilla, Tiffany Lewis, Mateus F. Carneiro
 
 #### Survey	
-Sam Hedges, Josh Barrow
+Maria Elidaiana da Silva Pereira, Garvita Agarwal
 
 #### Long-Term Organization
 Alden Fan, Garvita Agarwal, Joshua Barrow, Kristi Engel, Pranava Teja Surukuchi, Fernanda Psihas
