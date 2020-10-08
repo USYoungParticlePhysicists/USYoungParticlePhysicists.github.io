@@ -12,6 +12,8 @@ permalink: /leads/
 The SEC leadership board consists of the current and previous year DPF executive committee early career members and 2-3 leaders per 
 key initiative. 
 
+<img src="https://usyoungparticlephysicists.github.io/docs/snowmass.png" width="500">
+
 #### DPF Early Career Members:
 Sara Simon (2020 term), Fernanda Psihas (2019 term) 
 
